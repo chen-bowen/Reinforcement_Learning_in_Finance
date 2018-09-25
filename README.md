@@ -1,4 +1,4 @@
-# Reinforcement_Learning_in_Finance
+# Reinforcement Learning in Finance
 
 Project Repository for the Coursera Specialization Reinforcement Learning in Finance
 
