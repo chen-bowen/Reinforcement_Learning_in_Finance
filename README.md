@@ -1,6 +1,7 @@
 # Reinforcement Learning in Finance
 
-Project Repository for the Coursera Specialization Reinforcement Learning in Finance
+Project Repository for the Coursera Specialization Reinforcement Learning in Finance with NYU Tandon School of Engineering. The notebooks of each project could be viewed directly by clicking the link on README.md
+
 
 ### 1. Guided Tour for Machine Learning in Finance
 
